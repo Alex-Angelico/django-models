@@ -41,4 +41,3 @@ Within ```snack_tracker```, use ```python manage.py runserver``` and navigate to
 ## Change Log
 
 1.0: *List and Detail pages complete with testing* - 03 Mar 2021
-# django-models
